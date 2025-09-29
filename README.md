@@ -1,4 +1,4 @@
-# Curriculum Vitae Online
+# Curriculum Vitae Online - revisar essa semana 
 
 Sejam todos bem vindos ao projeto de Curriculum Vitae Online oferecidos pela Digital Innovation One.
 
