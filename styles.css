@@ -91,6 +91,16 @@ footer a:hover {
     transform: scale(1.2);
 }
 
+/* Estilo específico para o WhatsApp */
+.fa-whatsapp {
+    color: #25D366 !important;
+}
+
+.fa-whatsapp:hover {
+    color: #128C7E !important;
+    transform: scale(1.2);
+}
+
 /* Estilização dos links */
 a {
     color: #009688;
