@@ -1,8 +1,8 @@
-# Curriculum Vitae Online
+# Curriculo Online Interativo
 
-Sejam todos bem vindos ao projeto de Curriculum Vitae Online oferecidos pela Digital Innovation One.
+Sejam todos bem vindos ao projeto de Curriculum Vitae Online oferecidos pela Digital Innovation One , fiz esse curriculo junto a um bootcamp que realizei com eles já vou falar sobre esse projeto.
 
-O projeto tem como objetivo montar nossa primeira página web que será a replica de um CV Online, utilizando conceitos de html e Github Pages. Ao  fim teremos nosso currículo pronto e disponível de forma estática.
+O projeto tem como objetivo montar nossa primeira página web que será a replica de um Curriculo Online, utilizando conceitos de html e Github Pages. Ao  fim teremos nosso currículo pronto e disponível de forma estática.
 
 Ele também pode ser utilizado como currículo ‘vitae’ e portfolio pessoal.
 
@@ -18,13 +18,13 @@ https://github.com/digitalinnovationone/cv/issues
 
 W3C: https://www.w3schools.com/howto/howto_website_create_resume.asp
 
-### ✅ Desenvolvendo Seu Curriculum Vitae Online:
+### ✅ Desenvolvendo Seu Curriculo Online:
 
 Há várias formas de iniciar o desenvolvimento do seu projeto, como:
 
 - Fazer o Download da Pasta peLo GitHub: Faça o download da pasta pelo GitHub: você pode clicar no botão "Code" e depois em "Download ZIP"  para baixar uma cópia do projeto compactado em um arquivo ZIP. Basta  extrair os arquivos e começar a trabalhar.
 - Você pode fazer o fork do projeto: Ao fazer o fork, você cria uma  cópia do projeto em seu próprio repositório do GitHub. Para isso, basta  clicar no botão "Fork" na página do projeto. Em seguida, você pode  clonar o repositório do seu próprio GitHub em sua máquina local,  utilizando o comando `git clone <url do seu fork>`.
-- Por fim, você pode e tem toda a liberdade para criar do ZERO seu CV online;
+- Por fim, você pode e tem toda a liberdade para criar do ZERO seu Curriculo Online;
 
 **Agora Vamos Lá!**
 
