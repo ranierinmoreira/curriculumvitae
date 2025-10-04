@@ -140,7 +140,7 @@ Já o CD é um processo que visa automatizar a entrega do software em produção
 
 Em resumo, CI e CD são práticas que ajudam a garantir a qualidade do software e a agilizar o processo de entrega, tornando-o mais confiável e eficiente.
 
-### 🔴 Github Pages
+### 🔴 Github Pages , para uma melhor navegação
 
 O GitHub Pages é um serviço de hospedagem de sites estáticos oferecido pelo GitHub. Ele permite que você crie um site estático usando HTML, CSS e JavaScript e hospede-o diretamente em um repositório do GitHub.
 
