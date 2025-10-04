@@ -9,6 +9,31 @@ html, body, h1, h2, h3, h4, h5, h6 {
 .w3-content {
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
     border-radius: 8px;
+    margin: 16px auto;
+    max-width: 95%;
+}
+
+/* Ajuste para seções lado a lado */
+.w3-row-padding {
+    margin: 0;
+    padding: 0;
+}
+
+/* Melhor aproveitamento do espaço nas colunas */
+.w3-half {
+    padding: 0 8px;
+}
+
+/* Primeira coluna - menos padding à esquerda */
+.w3-half:-child {
+    padding-left: 0;
+    padding-right: 20px;
+}
+
+/* Segunda coluna - menos padding à direita */
+.w3-half:last-child {
+    padding-right: 20px;
+    padding-left: 20px;
 }
 
 /* Estilização das cartas (cards) */
@@ -120,17 +145,38 @@ ul li:hover {
 /* Responsividade melhorada */
 @media screen and (max-width: 768px) {
     .w3-content {
-        margin: 16px;
-        max-width: calc(100% - 32px);
+        margin: 8px;
+        max-width: calc(100% - 16px);
     }
     
     .w3-third, .w3-twothird {
         width: 100%;
     }
     
+    .w3-half {
+        width: 100% !important;
+        padding: 0 !important;
+        margin-bottom: 16px;
+    }
+    
     footer a {
         display: block;
         margin: 10px 0;
+    }
+}
+
+/* Layout otimizado para telas maiores */
+@media screen and (min-width: 1200px) {
+    .w3-content {
+        max-width: 98%;
+    }
+    
+    .w3-half:first-child {
+        padding-right: 16px;
+    }
+    
+    .w3-half:last-child {
+        padding-left: 16px;
     }
 }
 
