@@ -1,4 +1,4 @@
-# Curriculo Online Interativo
+# Curriculo Online
 
 Sejam todos bem vindos ao projeto de Curriculum Vitae Online oferecidos pela Digital Innovation One , fiz esse curriculo junto a um bootcamp que realizei com eles já vou falar sobre esse projeto.
 
