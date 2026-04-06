@@ -26,7 +26,7 @@ Há várias formas de iniciar o desenvolvimento do seu projeto, como:
 - Você pode fazer o fork do projeto: Ao fazer o fork, você cria uma  cópia do projeto em seu próprio repositório do GitHub. Para isso, basta  clicar no botão "Fork" na página do projeto. Em seguida, você pode  clonar o repositório do seu próprio GitHub em sua máquina local,  utilizando o comando `git clone <url do seu fork>`.
 - Por fim, você pode e tem toda a liberdade para criar do ZERO seu Curriculo Online;
 
-**Agora Vamos Lá!**
+** Agora Vamos Lá! **
 
 1. Vamos começar fazendo o Fork do nosso projeto em: https://github.com/falvojr/cv
 2. Ao criar o projeto podemos utilizar o próprio GitHub como IDE utilizando o (.) na página inicial do projeto.
